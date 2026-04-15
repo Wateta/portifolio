@@ -6,7 +6,7 @@ import { profileImg } from '../images';
 export default function Hero() {
   return (
     <section id="home" className="relative min-h-screen flex items-center pt-20 overflow-hidden">
-      {/* Background Elements */}
+     
       <div className="absolute inset-0 z-0">
         <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-primary/20 rounded-full blur-[120px] mix-blend-screen"></div>
         <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-accent/20 rounded-full blur-[120px] mix-blend-screen"></div>
@@ -65,7 +65,7 @@ export default function Hero() {
             <div className="absolute inset-0 rounded-full border border-primary/30 animate-[spin_10s_linear_infinite]"></div>
             <div className="absolute inset-4 rounded-full border border-accent/30 animate-[spin_15s_linear_infinite_reverse]"></div>
             <div className="absolute inset-8 rounded-full overflow-hidden border-2 border-dark-700 bg-dark-800">
-              {/* Using a placeholder styling for the image to ensure it looks good even if Unsplash fails, but we will use the image path */}
+              
               <div className="w-full h-full bg-dark-800 flex items-center justify-center text-gray-600">
                 <img src={profileImg} alt="Shimirwa Teta Sonia" className="w-full h-full object-cover opacity-80 mix-blend-luminosity hover:mix-blend-normal transition-all duration-500" />
               </div>

@@ -11,11 +11,11 @@ export default {
           700: '#1e1e1e',
         },
         primary: {
-          DEFAULT: '#10b981', // Emerald green for cyber vibe
+          DEFAULT: '#10b981', 
           dark: '#059669',
         },
         accent: {
-          DEFAULT: '#8b5cf6', // Purple for contrast
+          DEFAULT: '#8b5cf6', 
         }
       },
       fontFamily: {
