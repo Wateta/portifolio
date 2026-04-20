@@ -15,7 +15,7 @@ export default function Footer() {
         </p>
 
         <div className="flex items-center gap-4">
-          <a href="#" className="w-10 h-10 rounded-full bg-dark-800 flex items-center justify-center text-gray-400 hover:text-white hover:bg-primary/20 transition-all">
+          <a href="https://github.com/Wateta" target="_blank" rel="noreferrer" className="w-10 h-10 rounded-full bg-dark-800 flex items-center justify-center text-gray-400 hover:text-white hover:bg-primary/20 transition-all">
             <Github className="w-5 h-5" />
           </a>
           <a href="#" className="w-10 h-10 rounded-full bg-dark-800 flex items-center justify-center text-gray-400 hover:text-white hover:bg-blue-500/20 transition-all">
