@@ -44,7 +44,7 @@ const projects = [
     demo: "#",
   },
   {
-    title: "Gwiza Ai",
+    title: "Gwiza AI",
     description: "An AI-powered recruitment platform that takes the guesswork out of hiring. Automatically ranks applicants and surfaces the top 10–20 candidates, complete with a breakdown of each person's strengths, weaknesses, and the reasoning behind their ranking — helping recruiters make faster, fairer decisions.",
     tags: ["Next.js", "Node.js", "Express", "MongoDB", "REST API", "TypeScript"],
     icon: <Brain className="w-8 h-8 text-yellow-400" />,
