@@ -4,23 +4,23 @@ import { motion } from 'framer-motion';
 const skillCategories = [
   {
     title: "Backend Development",
-    skills: ["Node.js", "Python", "Express.js", "Django", "RESTful APIs", "GraphQL"]
+    skills: ["Node.js", "Python", "Express.js", , "RESTful APIs","Authentication & Authorization"]
   },
   {
     title: "Mobile Development",
-    skills: ["Kotlin", "React Native", "Android Studio", "Jetpack Compose", "TypeScript"]
+    skills: ["Kotlin", "React Native", "Android Studio", "TypeScript"]
   },
   {
     title: "Database Management",
-    skills: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Database Design"]
+    skills: ["PostgreSQL", "MySQL", "MongoDB", "Database Design"]
   },
   {
     title: "Cyber Security",
-    skills: ["Penetration Testing", "Cryptography", "Network Security", "OWASP Top 10", "Linux/Unix"]
+    skills: ["Penetration Testing", "Cryptography", "Network Security",  "Linux/Unix"]
   },
   {
     title: "Tools & DevOps",
-    skills: ["Git & GitHub", "Docker", "CI/CD", "Bash Scripting", "AWS (Basic)"]
+    skills: ["Git & GitHub", "Docker",  "AWS (Basic)"]
   }
 ];
 
